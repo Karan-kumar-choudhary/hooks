@@ -1,0 +1,18 @@
+/* Hooks in React 
+REACT ki sari functionality hooks ke andar hoti hai 
+> react mei har ek kaam ko karne ke liye ek hook defined hai 
+> api call ke liye alag hook , cheeze store krne ke liye alag hook , har ek cheez ka alag hook
+> react mei total 30 + hooks hote hai jisme se saare mere kaam ke nahi hai 
+> 1. UseState Hook
+> 2. UseEffect Hook
+> 3. UseRef Hook
+> 4. UseCallback Hook
+> 5. UseMemo Hook 
+
+>1. UseState Hook
+== isme aisa hota hai react use krta hai objects ka har ek dynamic cheez ko store krne ke liye 
+== use state hook ko bataya gaya hai code mei --
+
+
+
+*/
